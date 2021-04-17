@@ -10,3 +10,8 @@ They can include but are not limited to:
 * Matlab
 * Python
 
+---
+## Current File(s)
+* batterylife.ipynb
+  * Jupyter Notebook to plot and calculate battery life.
+
